@@ -9,7 +9,8 @@
 
 🛠 Tech Stack
 
-🐍 Python
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/97621c06-628f-4f97-987b-e56754960f11" />
+
 🎯 Django
 ⚛ React
 🗄 MySQL

@@ -9,23 +9,15 @@
 
 🛠 Tech Stack
 
-<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/97621c06-628f-4f97-987b-e56754960f11" />
-
-<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/447958b8-e46f-4b18-8401-3b2adf3da2ae" />
-
-<img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/9871513c-ba4b-4a25-8159-5361e534b6cc" />
-
-<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/c6bd70ba-fd22-4725-aff8-8ae6be348288" />
-
-<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/5e93e9a7-bcb2-4f9b-af7d-6f32468ecf77" />
-
-<img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/17fa9b0b-2a55-45f1-a967-d14e69647eda" />
-
-<img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/67bedeee-65d5-4d2e-91b7-afd1d156daa9" />
-
-<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/86cd5de1-6404-4841-ac46-3b9efd26d475" />
-
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ------------------------------------------------
 
@@ -51,6 +43,6 @@ Local Services & Product Platform
 
 📫 Connect with Me
 
-LinkedIn
-Email
+LinkedIn : https://www.linkedin.com/in/shanmugamoorthy-rajamanikkam-75bb052a7/
+Email : rajamoorthy562@gmail.com
 GitHub

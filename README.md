@@ -248,18 +248,6 @@ Seeking an opportunity as a Python Full Stack Developer where I can apply my kno
 
 ---
 
-# GITHUB STATISTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahasandy28&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasandy28&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sahasandy28&theme=github-dark&hide_border=true"/>

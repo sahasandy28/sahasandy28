@@ -1,9 +1,7 @@
 👋 Hi, I'm Shanmugamoorthy
-
-🚀 Python Full Stack Developer
-
-💻 MCA Graduate
-🌱 Looking for Full Stack Developer Opportunities
+ Python Full Stack Developer
+ MCA Graduate
+ Looking for Full Stack Developer Opportunities
 
 ------------------------------------------------
 
@@ -21,9 +19,9 @@
 
 ------------------------------------------------
 
-🚀 Featured Project
+**Featured Project**
 
-📌 Local Saha
+Local Saha
 Local Services & Product Platform
 
 ✔ JWT Authentication
